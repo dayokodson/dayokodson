@@ -9,16 +9,16 @@
 
 
 
-### :purple_heart: Java Developer :purple_heart:
+### Web Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Personal Projects][github] my repositories
-- 🌱 I’m currently learning Cobol.
-- 💬 Ask me about to be Java
-- 📫 How to reach me: You can reach me on [Twitter][twitter] by sending me a DM :bird: or Send me an [e-mail][e-mail] :love_letter: or on [Linkedin][website] my user name :crown: is Paula Abad.
-- ⚡ Fun fact: I love to travel :airplane: and :pizza:
-- Invite me for a [coffee](https://www.buymeacoffee.com/paulabad76Q) ☕ "Raise funds to support Software Development Students of SENA Dosquebradas - Colombia".
+- 🔭 I’m currently working on [Personal Projects][github] 
+- 🌱 I’m currently learning @alx_software_engineering.
+- 💬 Ask me about to be Laravel
+- 📫 How to reach me: You can reach me on [Twitter][twitter] by sending me a DM :bird: or Send me an [e-mail][e-mail] :love_letter: or on [Linkedin][website] my user name :crown: is Dayo Kodson.
+- ⚡ Fun fact: I love Soccer ⚽
+- Invite me for a [coffee](https://www.buymeacoffee.com/dayokodson) ☕
 
 ---
 
