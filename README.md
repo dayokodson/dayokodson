@@ -5,7 +5,7 @@
 
 
 
-[<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6/giphy.gif">][website]
+[<img src="https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?format=mp4&v=enabled&s=54157417a7ab980c0228b76d6bc0f4d2efc49d0e">][website]
 
 
 
