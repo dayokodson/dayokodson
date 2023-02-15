@@ -5,7 +5,7 @@
 
 
 
-[<img src="src="https://giphy.com/embed/26tn33aiTi1jkl6H6/giphy.gif">][website]
+[<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6/giphy.gif">][website]
 
 
 
